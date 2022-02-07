@@ -1,0 +1,8 @@
+{
+  "name": "MyF App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0897dc81"
+}
